@@ -2652,7 +2652,6 @@ input, select, textarea {
 
 		#footer .icons a {
 			color: rgba(255, 255, 255, 0.4);
-			margin-top: 200px;
 		}
 
 	#footer .copyright {
@@ -2682,7 +2681,6 @@ input, select, textarea {
 
 			#footer .copyright li a {
 				color: inherit;
-				margin-top: 100px;
 			}
 
 /* Main */
