@@ -3281,7 +3281,7 @@ input, select, textarea {
   color:#000;
   font-weight:bold;
 }
-.wave{
+.wavy{
   position:absolute;
   width:2000px;
   height:2000px;
@@ -3305,7 +3305,7 @@ input, select, textarea {
   transform:scale(0,0) translate3d(0,0,0);
   opacity:1;
 }
-.wave-ani{
+.wavy-ani{
   -webkit-transform:scale(1,1) translate3d(0,0,0);
   -moz-transform:scale(1,1) translate3d(0,0,0);
   -ms-transform:scale(1,1) translate3d(0,0,0);
